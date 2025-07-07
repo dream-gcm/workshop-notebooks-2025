@@ -103,7 +103,7 @@ But first, some explanation of what this command does:
 *  4.5 bis Or on the left, click on the “work” directory, then in DREAM directory, and you can see the files and subdirectories from the DREAM model code. You can open and edit those file within the JupyterLab too by clicking on them.
 
 # 5. Congratulations! You're now ready to play with the DREAM model. 
-Let's move to the [next tutorial]() for a basic usage of DREAM.
+Let's move to the [next tutorial](./2025-07-15_workshop-EX1a.ipynb) for a basic usage of DREAM.
 
 # 6 Close Docker 
 * When you are done with your DREAM model session, you can close the Docker app and the terminal from which you had run the Docker command.
