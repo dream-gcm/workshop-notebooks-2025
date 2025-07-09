@@ -1,8 +1,11 @@
 FROM ghcr.io/dream-gcm/dreamgcm-env:latest
 
-# Expose the JupyterLab port
+# Copy all notebooks from repo root into /home/jovyan/work inside the image
+COPY *.ipynb /home/jovyan/work/
+COPY *.md /home/jovyan/work/
+
+# Expose JupyterLab port
 EXPOSE 8888
 
-# Set the default command to start JupyterLab
-CMD ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--notebook-dir=/home/jovyan"]
-
+# Start JupyterLab pointing at the notebooks folder
+CMD ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--notebook-dir=/home/jovyan/work"]
