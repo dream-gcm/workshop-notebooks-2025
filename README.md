@@ -16,4 +16,9 @@
 * [Tuto: EX6](2025-07-15_workshop-EX6.ipynb)
 
 
+Install Docker on your laptop and get a read-to-use environment to run the DREAM model:
+[![GitHub Container Registry](https://img.shields.io/badge/GHCR-dreamgcm--env-blue?logo=github&logoColor=white)](https://github.com/dream-gcm/dream-docker/pkgs/container/dreamgcm-env)
+Tutorial here.
+
+Alternatively you can try to run it on-line via Binder (no installation required - but beware it takes a while to load the page)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dream-gcm/workshop-notebooks-2025/main?urlpath=lab)
