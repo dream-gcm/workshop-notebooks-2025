@@ -1,33 +1,4 @@
-# Start from the Jupyter base notebook image
-FROM quay.io/jupyter/scipy-notebook:2024-10-07
-
-# Switch to root to install system-level dependencies
-USER root
-
-# Install system dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    gfortran \
-    libhdf5-dev \
-    libnetcdf-dev \
-    libnetcdff-dev \
-    netcdf-bin \
-    vim \
-    && rm -rf /var/lib/apt/lists/*
-
-# Switch back to jovyan user (the default user in Jupyter images)
-USER ${NB_UID}
-
-# Install Python packages using pip
-RUN pip install --no-cache-dir \
-    cartopy \
-    numpy \
-    netCDF4 \
-    pandas \
-    matplotlib \
-    scipy \
-    xarray \
-    Pillow \
-    ffmpeg-python
+FROM ghcr.io/dream-gcm/dreamgcm-env:latest
 
 # Expose the JupyterLab port
 EXPOSE 8888
