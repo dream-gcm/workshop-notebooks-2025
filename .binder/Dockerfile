@@ -33,5 +33,5 @@ RUN pip install --no-cache-dir \
 EXPOSE 8888
 
 # Set the default command to start JupyterLab
-CMD ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser", "--allow-root"]
+CMD ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--notebook-dir=/home/jovyan"]
 
