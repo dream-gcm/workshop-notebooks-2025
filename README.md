@@ -14,3 +14,6 @@
 * [Tuto: EX5a](2025-07-15_workshop-EX5a.ipynb)
 * [Tuto: EX5b](2025-07-15_workshop-EX5b.ipynb)
 * [Tuto: EX6](2025-07-15_workshop-EX6.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dream-gcm/workshop-notebooks-2025/main?urlpath=lab)
