@@ -27,7 +27,7 @@ How to cite: _Leroux, S. & Hall, N. (2025). Tutorial notebooks to get started wi
 * [Tuto: EX5b](2025-07-15_workshop-EX5b.ipynb)
 * [Tuto: EX6](2025-07-15_workshop-EX6.ipynb)
 * [Tuto: EX6](2025-07-15_workshop-EX6.ipynb)
-* [Tuto: BONUS1]([2025-07-17_workshop-BONUS1-anomalyforcing.ipynb))
+* [Tuto: BONUS1](2025-07-17_workshop-BONUS1-anomalyforcing.ipynb)
 * [Tuto: BONUS2](2025-07-17_workshop-BONUS2-ZonalMeanJJA.ipynb)
 * [Tuto: BONUS3](2025-07-17_workshop-BONUS3-forcingfile.ipynb)
 
