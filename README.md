@@ -7,10 +7,10 @@ How to cite: _Leroux, S. & Hall, N. (2025). Tutorial notebooks to get started wi
 [![DOI](https://zenodo.org/badge/1015640526.svg)](https://doi.org/10.5281/zenodo.16079162)
 
 <figure>
-  <img src="/images/workshop_onlineparticipants.png" alt="Alt text" style="max-width: 200px !important; height: auto !important;" />
+  <img src="workshop_onlineparticipants.png" alt="Alt text" style="max-width: 200px !important; height: auto !important;" />
 </figure>
 <figure>
-  <img src="/images/workshop_toulouseparticipants.jpg" alt="Alt text" style="max-width: 200px !important; height: auto !important;" />
+  <img src="workshop_toulouseparticipants.jpg" alt="Alt text" style="max-width: 200px !important; height: auto !important;" />
 </figure>
 
 ---
