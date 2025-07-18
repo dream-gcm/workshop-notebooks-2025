@@ -1,5 +1,5 @@
 # DREAM WORKSHOP Jul, 2025
-![workshop](participantssmall.png
+![workshop](participantssmall.png)
 
 ---
 
