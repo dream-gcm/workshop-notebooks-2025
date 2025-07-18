@@ -1,5 +1,5 @@
 # DREAM WORKSHOP Jul, 2025
-![workshop](participantsmall.png)
+![workshop](participantssmall.png)
 
 **This repo contains the tutorial notebooks provided for the July 2025 DREAM model workshop.**
 
