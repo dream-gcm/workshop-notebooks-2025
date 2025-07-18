@@ -2,9 +2,10 @@
 
 This repo contains the tutorial notebooks provided for the July 2025 DREAM model workshop.
 
-Cite with: _Stephanie Leroux, & Nicholas Hall (2025). Tutorial notebooks to get started with the DREAM model (v1.1). Zenodo. https://doi.org/10.5281/zenodo.16079415_ 
-
+How to cite: _Leroux, S. & Hall, N. (2025). Tutorial notebooks to get started with the DREAM model (v1.1). Zenodo. https://doi.org/10.5281/zenodo.16079415_ 
 [![DOI](https://zenodo.org/badge/1015640526.svg)](https://doi.org/10.5281/zenodo.16079162)
+
+---
 
 * [Tuto: Install DREAM with Docker](2025-07-15_Start-Docker-participants.md)
 
@@ -19,7 +20,10 @@ Cite with: _Stephanie Leroux, & Nicholas Hall (2025). Tutorial notebooks to get 
 * [Tuto: EX5a](2025-07-15_workshop-EX5a.ipynb)
 * [Tuto: EX5b](2025-07-15_workshop-EX5b.ipynb)
 * [Tuto: EX6](2025-07-15_workshop-EX6.ipynb)
-
+* [Tuto: EX6](2025-07-15_workshop-EX6.ipynb)
+* [Tuto: BONUS1](2025-07-15_workshop-BONUS1.ipynb)
+* [Tuto: BONUS1](2025-07-15_workshop-BONUS2.ipynb)
+* [Tuto: BONUS1](2025-07-15_workshop-BONUS3.ipynb)
 
 Install Docker on your laptop and get a read-to-use environment to run the DREAM model:
 [![GitHub Container Registry](https://img.shields.io/badge/GHCR-dreamgcm--env-blue?logo=github&logoColor=white)](https://github.com/dream-gcm/dream-docker/pkgs/container/dreamgcm-env)
