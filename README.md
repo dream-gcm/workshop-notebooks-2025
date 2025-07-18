@@ -1,5 +1,10 @@
 # DREAM WORKSHOP2025
 
+This repo contains the tutorial notebooks provided for the July 2025 DREAM model workshop.
+
+Cite with: _Stephanie Leroux, & Nicholas Hall (2025). Tutorial notebooks to get started with the DREAM model (v1.1). Zenodo. https://doi.org/10.5281/zenodo.16079415_ 
+
+[![DOI](https://zenodo.org/badge/1015640526.svg)](https://doi.org/10.5281/zenodo.16079162)
 
 * [Tuto: Install DREAM with Docker](2025-07-15_Start-Docker-participants.md)
 
